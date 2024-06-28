@@ -21,9 +21,9 @@ Observação: não esquecendo de, se possível, aplicar conceitos de POO, tais c
 ### 📋 Pré-requisitos
 
 Programas e aplicativos necessários para a realização e execução do projeto:
-1. [JDK Development Kit 22.0.1 downloads] (https://www.oracle.com/br/java/technologies/downloads/)
+1. [JDK Development Kit 22.0.1 downloads] (https://www.oracle.com/br/java/technologies/downloads/).
 2. Uma IDE para programação em Java, como o [Eclipse IDE for Java and Web Developers] ou outra IDE que execute Java de sua preferência. 
-(https://www.eclipse.org/downloads/packages/release/2024-06/r/eclipse-ide-enterprise-java-and-web-developers)
+(https://www.eclipse.org/downloads/packages/release/2024-06/r/eclipse-ide-enterprise-java-and-web-developers).
 3. Conhecimentos básicos em linguagem Java.
 
 ## Sistema de Gerenciamento de Funcionários
