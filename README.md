@@ -60,6 +60,10 @@ Classe responsável por gerenciar a lista de funcionários. Contém métodos par
 ### `Main`
 Classe principal que contém o método `main` e a lógica de interação com o usuário via console.
 
+## Como Executar
+1. Clone este repositório:
+git clone https://github.com/marcusvrsantos/sistematizacaopoo.git
+
 ### Conceitos de POO aplicados
 **Encapsulamento:** As classes Funcionario e ContatoEmergencia encapsulam os atributos e fornecem métodos para acessar e modificar esses atributos (getters e setters).
 
